@@ -4,3 +4,5 @@ Assignment 2 for BITS Pilani's Neural Networks and Fuzzy Logic(NNFL) BITSF312 co
 Part1 - LiarLiar
 
 Part2 - PSO (Particle Swarm Optimization)
+
+TODO: add glove files
