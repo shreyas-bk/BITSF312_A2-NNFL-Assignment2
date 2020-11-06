@@ -5,4 +5,7 @@ Part1 - LiarLiar
 
 Part2 - PSO (Particle Swarm Optimization)
 
-TODO: add glove files
+TODO: 
+ - add glove files
+ - some mistake in get item
+
